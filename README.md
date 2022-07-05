@@ -33,7 +33,7 @@ IntelliJ is used to develop this Framework.
 
 Feature file: RestApiTesting.Framework.Leopard\src\test\java\features\apiValidation.feature
 Runner folder-file: RestApiTesting.Framework.Leopard\src\test\java\runner\AllClassesTestRunner.java
-Strp definition folder-file: RestApiTesting.Framework.Leopard\src\test\java\StepDefinitions\ApiBasicGetBookingTest.java
+Step definition folder-file: RestApiTesting.Framework.Leopard\src\test\java\StepDefinitions\ApiBasicGetBookingTest.java
 
 ### Run Tests
 * Running all classes at once::  Open file in IntelliJ: ..RestApiTesting.Framework.Leopardmaster\RestApiTesting.Framework.Leopard\src\test\java\runner\AllClassesTestRunner.java
