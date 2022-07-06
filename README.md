@@ -29,7 +29,7 @@ Testing and validating REST services in Java is harder than in dynamic languages
 http://rest-assured.io/
 
 ## Getting code in local
-Step 1: Download the .zip file.
+Step 1: Download the .zip file from Github.
 Step 2: Extract the files 
 Step 3: Open files in local
 
