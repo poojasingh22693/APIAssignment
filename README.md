@@ -28,6 +28,11 @@ The following HTTP methods are tested:
 Testing and validating REST services in Java is harder than in dynamic languages such as Ruby and Groovy. REST Assured brings the simplicity of using these languages into the Java domain.
 http://rest-assured.io/
 
+## Getting code in local
+Step 1: Download the .zip file.
+Step 2: Extract the files 
+Step 3: Open files in local
+
 ## Integrated Development Environment
 IntelliJ is used to develop this Framework.
 
